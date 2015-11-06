@@ -1,12 +1,11 @@
 {
-  "name": "bootstrap-confirmation2",
-  "version": "2.1.2",
-  "homepage": "https://github.com/mistic100/Bootstrap-Confirmation",
+  "name": "bootstrap-confirmation",
+  "version": "1.0",
+  "homepage": "https://github.com/parfumix/bootstrap-confirmation",
   "authors": [
-    "ethaizone",
+    "Radu",
     {
-      "name": "Damien \"Mistic\" Sorel",
-      "homepage": "http://www.strangeplanet.fr"
+      "name": "Radu"
     }
   ],
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
@@ -21,7 +20,7 @@
   "license": "Apache",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/Bootstrap-Confirmation.git"
+    "url": "https://github.com/parfumix/bootstrap-confirmation"
   },
   "ignore": [
     "**/.*",

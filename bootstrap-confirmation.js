@@ -1,18 +1,8 @@
-/*!
- * Bootstrap Confirmation
- * Copyright 2013 Nimit Suwannagate <ethaizone@hotmail.com>
- * Copyright 2014 Damien "Mistic" Sorel <http://www.strangeplanet.fr>
- * Licensed under the Apache License, Version 2.0 (the "License")
- */
-
 (function ($) {
   'use strict';
 
-  // Confirmation extends popover.js
   if (!$.fn.popover) throw new Error('Confirmation requires popover.js');
 
-  // CONFIRMATION PUBLIC CLASS DEFINITION
-  // ===============================
   var Confirmation = function (element, options) {
     this.init('confirmation', element, options);
 
