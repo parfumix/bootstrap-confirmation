@@ -1,27 +1,19 @@
 {
   "name": "bootstrap-confirmation",
-  "version": "1.0",
-  "homepage": "https://github.com/parfumix/bootstrap-confirmation",
-  "authors": [
-    "Radu",
-    {
-      "name": "Radu"
-    }
-  ],
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
   "main": "bootstrap-confirmation.js",
+  "authors": [
+    "Radu <radu.bordei89@gmail.com>"
+  ],
+  "license": "Apache",
   "keywords": [
     "confirmation",
     "popup"
   ],
-  "dependencies" : {
-    "bootstrap": ">=3.2.0"
-  },
-  "license": "Apache",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/parfumix/bootstrap-confirmation"
-  },
+  "homepage": "https://github.com/parfumix/bootstrap-confirmation",
+  "moduleType": [
+    "node"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
