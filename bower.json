@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-confirmation",
+  "description": "Bootstrap plugin for on-place confirm boxes using Popover",
+  "main": "bootstrap-confirmation.js",
+  "authors": [
+    "Radu <radu.bordei89@gmail.com>"
+  ],
+  "license": "Apache",
+  "keywords": [
+    "confirmation",
+    "popup"
+  ],
+  "homepage": "https://github.com/parfumix/bootstrap-confirmation",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "*"
+  }
+}
